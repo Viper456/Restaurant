@@ -1,0 +1,57 @@
+@font-face {
+   font-family: "forever_brush_script";
+   src: local("forever_brush_script"),
+      url('../fonts/forever_brush_script/forever_brush_script.woff'),
+      url('../fonts/forever_brush_script/forever_brush_script.woff2');
+   font-style: normal;
+   font-weight: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "ProximaNovaA-Regular";
+   src: local("ProximaNovaA-Regular"),
+      url('../fonts/ProximaNovaA-regular/ProximaNovaA-Regular.woff'),
+      url('../fonts/ProximaNovaA-regular/ProximaNovaA-Regular.woff2');
+   font-style: normal;
+   font-weight: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "ProximaNovaT-Thin";
+   src: local("ProximaNovaT-Thin"),
+      url('../fonts/ProximaNovaT/ProximaNovaT-Thin.woff'),
+      url('../fonts/ProximaNovaT/ProximaNovaT-Thin.woff2');
+   font-style: normal;
+   font-weight: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Roboto-Regular";
+   src: local("Roboto-Regular"),
+      url('../fonts/Roboto/Roboto-Regular.ttf');
+   font-style: normal;
+   font-weight: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Roboto-Bold";
+   src: local("Roboto-Bold"),
+      url('../fonts/Roboto/Roboto-Bold.ttf');
+   font-style: normal;
+   font-weight: bold;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Font5Brands-Regular";
+   src: local("Font5Brands-Regular"),
+      url('../fonts/FontAwesome5Brands/FontAwesome5BrandsRegular.woff'),
+      url('../fonts/FontAwesome5Brands/FontAwesome5BrandsRegular.woff2');
+   font-style: normal;
+   font-weight: normal;
+   font-display: swap;
+}
